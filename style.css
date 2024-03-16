@@ -1,0 +1,93 @@
+body{
+    margin-left: 0px;
+    margin-right:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.page1{
+    /* background-color: #86f3dd; */
+    color: #0b4350;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    /* border: 10px solid #f58bcf; */
+    text-align: center;
+}
+.pg-world{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    background-color: #003e29;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 15%;
+    box-sizing: 42%;
+    padding-bottom: 29%;
+    border-radius: 10px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    margin-left: 16%;
+}
+.h1{
+    color: #0b4350;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+.page2{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    background-color: #003e29(168, 72%, 28%);
+    color: #ACE4E3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15%;
+    box-sizing: 42%;
+    padding-bottom: 29%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.box-1{
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 10%;
+    background-color: #86f3dd;
+    color: #003e29;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    box-sizing: 35%;
+    padding-bottom: 19%;
+    border: 10px;
+    border-color: #e853d6;
+    /* margin-bottom: 10%;
+    margin-top: 10%; */
+}
+.heading-number{
+    color: #f8f9fa;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    text-align: center;
+}
+.content-myth-fact{
+    width: 80%;
+    padding-bottom: 10%;
+    background-color: #003e29;
+    color: #e853d6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    box-sizing: 65%;
+    padding-bottom: 0%;
+    /* margin-bottom: 10%;
+    margin-top: 10%; */
+}
+.number{
+    font-size: 300px;
+    text-align: left;
+}
